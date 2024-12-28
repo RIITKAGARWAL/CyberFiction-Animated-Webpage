@@ -27,9 +27,9 @@ To get started with this project, follow these steps:
    git clone https://github.com/RIITKAGARWAL/CyberFiction-Animated-Webpage.git
 2. **Navigate to the project directory**:
 
-sh
-cd CyberFiction-Animated-Webpage
-Open the index.html file in your web browser to view the animated webpage.
+   ```sh
+   cd CyberFiction-Animated-Webpage
+3. **Open the index.html file in your web browser to view the animated webpage**.
 
 ## Contributing
 We welcome contributions to enhance the project! If you have any ideas, suggestions, or improvements, feel free to open an issue or submit a pull request.
