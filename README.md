@@ -16,7 +16,6 @@ Welcome to the CyberFiction Animated Webpage repository! This project showcases 
 - **HTML5**: The backbone of the webpage, providing structure and content.
 - **CSS3**: Styling the webpage with modern design techniques and animations.
 - **JavaScript**: Adding interactivity and dynamic behavior to the webpage.
-- **Bootstrap 5**: A powerful front-end framework for responsive design.
 - **GSAP (GreenSock Animation Platform)**: A robust library for creating high-performance animations.
 
 ## Getting Started
